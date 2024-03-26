@@ -20,9 +20,9 @@ Projekt wykorzystuje następujące technologie i narzędzia:
 
 ## Funkcjonalność i Opis Działania 
 ### Główne Funkcje:
-- System zarządza dwoma parami świateł, jedną dla samochodów i drugą dla pieszych
+- System zarządza dwoma parami świateł, jedną dla samochodów i drugą dla pieszych.
 Piesi mają do dyspozycji przyciski po obu stronahc drogi, które pozwalają na aktywację zmiany świateł.
-Nad światłami dla samochodów wyświetla się w odpowiednim omencie czas pozosały do zmiany śiatła na zielone.
+Nad światłami dla samochodów wyświetla się w odpowiednim moemencie czas pozosały do zmiany światła na zielone.
 ### Projekt uwzględnia dwa tryby awaryjne w przypadku zepsucia przycisku:
 - Tryb migania żółtymi światłami 
 - Automatyczna zmiana sygnalizacji co określony czas, co zapewnia ciągłość przepływu ruchu pomimo awarii.
