@@ -3,7 +3,7 @@
 ## O Projekcie
 Jest to projekt sygnalizacji świetlnej zaimplementowanej w TIA Portal podłaczony do symualtora S7-1200 sterownika i zasymulowany w FactoryIO.
 Projekt powstał na podstawie kursu online i został nieznacznie zmodyfikowany.
-
+![](Crossing_FactoryIO/images/traficlights.PNG)
 
 ## Cele Projektu
 - Nauka programowania PLC
@@ -55,6 +55,7 @@ Nad światłami dla samochodów wyświetla się w odpowiednim moemencie czas poz
 ### Kontrola Świateł dla Pieszych
 - `Pedestrian.Green`
 - `Pedestrian.Red`
+
 
 ### Drzewo Projektu , Main OB1
 ![](Crossing_FactoryIO/images/main_view.PNG)
