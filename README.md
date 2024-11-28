@@ -3,6 +3,7 @@
 ## O Projekcie
 Jest to projekt sygnalizacji świetlnej zaimplementowanej w TIA Portal podłaczony do symualtora S7-1200 sterownika i zasymulowany w FactoryIO.
 Projekt powstał na podstawie kursu online i został nieznacznie zmodyfikowany.
+https://www.udemy.com/course/kurs-plc-simatic-siemens-s7-1200-od-podstaw
 ![](Crossing_FactoryIO/images/traficlights.PNG)
 
 ## Cele Projektu
