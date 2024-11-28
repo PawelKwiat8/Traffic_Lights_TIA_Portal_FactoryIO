@@ -24,12 +24,13 @@ Projekt wykorzystuje następujące technologie i narzędzia:
 - System zarządza dwoma parami świateł, jedną dla samochodów i drugą dla pieszych.
 - Piesi mają do dyspozycji przyciski po obu stronach drogi, które pozwalają na aktywację zmiany świateł.
 - Nad światłami dla samochodów wyświetla się w odpowiednim moemencie czas pozosały do zmiany światła na zielone.
+-  Możliwość resetu systemu
 ### Projekt uwzględnia dwa tryby awaryjne w przypadku zepsucia przycisku:
 - Tryb migania żółtymi światłami 
 - Automatyczna zmiana sygnalizacji co określony czas, co zapewnia ciągłość przepływu ruchu pomimo awarii.
-### Możliwość resetu systemu
 
-## Sekwencje Sterowania
+
+## Sterowanie - zmienne
 ### Sygnalizacja dla Pieszych
 - `Pedestrian_1`
 - `Pedestrian_2`
