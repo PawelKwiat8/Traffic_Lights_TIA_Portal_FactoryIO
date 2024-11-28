@@ -30,35 +30,6 @@ Projekt wykorzystuje następujące technologie i narzędzia:
 - Automatyczna zmiana sygnalizacji co określony czas, co zapewnia ciągłość przepływu ruchu pomimo awarii.
 
 
-## Sterowanie - zmienne
-### Sygnalizacja dla Pieszych
-- `Pedestrian_1`
-- `Pedestrian_2`
-
-### System Kontroli
-- `SystemStopWhenBroken`
-- `ResetSystem`
-- `SystemStopBroken`
-
-### Sekwencja Sygnalizacji
-- `Sequence.PushButtonPressed`
-- `Sequence.CarRed`
-- `Sequence.CarGreen`
-- `Sequence.CarYellowRed`
-- `Sequence.PedestrianGreen`
-- `Sequence.PedestrianToBlinking`
-- `Sequence.PedestrianBlinking`
-
-### Kontrola Świateł dla Samochodów
-- `Car.Green`
-- `Car.Red`
-- `Car.Yellow`
-
-### Kontrola Świateł dla Pieszych
-- `Pedestrian.Green`
-- `Pedestrian.Red`
-
-
 ### Drzewo Projektu , Main OB1
 ![](Crossing_FactoryIO/images/main_view.PNG)
 
